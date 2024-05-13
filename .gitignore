@@ -1,5 +1,7 @@
 #File
 *.DS_Store
+*.pptx
+*.svg
 
 #Directory
 /css
